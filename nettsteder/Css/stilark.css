@@ -1,0 +1,13 @@
+body {
+  background-image: url("../Bilder/Xp_wallpaper.jpg");
+
+  color: blue;
+}
+.side-side1 {
+  background-image: url("../Bilder/Xp_wallpaper.jpg");
+  background-repeat: no-repeat;
+}
+.side-side2 {
+  background-image: url("../Bilder/11_wallpaper.jpg");
+  background-repeat: no-repeat;
+}
